@@ -1,3 +1,3 @@
 # PortfolioOfGautamGne
 This is my first portfolio
-Author Gautam Kumar
+Author-Gautam Kumar
